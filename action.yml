@@ -1,7 +1,5 @@
 name: "fancy-echo"
 description: "Greet someone and record the time"
-icon: "terminal"
-color: "gray-dark"
 inputs:
   who-to-greet: # id of input
     description: "Who to greet"
